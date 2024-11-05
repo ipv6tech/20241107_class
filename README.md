@@ -9,11 +9,17 @@ This workshop will teach participants how to utilize Internet2 Cloud Connect to 
 ## Course Information
 
 **Title:** Networking in the Cloud
+
 **Instructor:** Scott Taylor, Internet2 Network Services
+
 **Time:** Thursday, 07 November 2024; 1100ET - 1400ET
+
 **Duration:** 3 hours
+
 **Cost:** FREE
+
 **Delivery:** Virtual via Zoom
+
 **Registration:** [Register](https://events.internet2.edu/netcloudnov24)
 
 ## Agenda
